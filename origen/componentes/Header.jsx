@@ -11,7 +11,7 @@ const Header = ({
     setValido}) => {
   return (
     <header>
-        <h1>Planificador de Gastos </h1>
+        <h1>FinanzApp </h1>
 
         {valido ? (
             <ControlPresupuesto
